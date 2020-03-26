@@ -1,0 +1,2 @@
+(this["webpackJsonpweb-store"]=this["webpackJsonpweb-store"]||[]).push([[4],{69:function(e,t,n){"use strict";n.r(t);var r=n(0),s=n.n(r);t.default=function(){return s.a.createElement("h1",{style:{textAlign:"center"}},"Sorry, page not found")}}}]);
+//# sourceMappingURL=not-found.6ee7bb41.chunk.js.map
