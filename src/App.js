@@ -1,6 +1,7 @@
 import React, { lazy, Suspense } from 'react';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import Nav from './components/Nav/Nav';
+import Footer from './components/Footer/Footer';
 
 const HomePage = lazy(() =>
   import('./pages/HomePage/HomePage' /* webpackChunkName: "home-page" */),
@@ -38,6 +39,8 @@ const App = () => (
         <Redirect to="/" />
       </Switch>
     </Suspense>
+
+    <Footer />
   </div>
 );
 
