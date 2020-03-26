@@ -1,0 +1,1 @@
+{"version":3,"sources":["ProfilePage.module.css"],"names":[],"mappings":"AAAA,iCACE,YAAa,CAEb,kBACF","file":"profile-page.b41a1c15.chunk.css","sourcesContent":[".profileTitle {\r\n  width: 1120px;\r\n  margin: 0 auto;\r\n  margin-bottom: 20px;\r\n}\r\n"]}
